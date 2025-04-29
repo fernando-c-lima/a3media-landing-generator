@@ -26,7 +26,6 @@ O objetivo principal é clonar duas páginas de concorrentes, transformá-las em
 
 ```bash
 git clone https://github.com/fernando-c-lima/a3media-landing-generator.git
-cd a3media-landing-generator
 ```
 
 ### 2. Instale as dependências:
@@ -34,11 +33,6 @@ cd a3media-landing-generator
 Se estiver usando **npm**:
 ```bash
 npm install
-```
-
-Ou, se preferir usar **yarn**:
-```bash
-yarn install
 ```
 
 ### 3. Inicie o projeto localmente:
@@ -59,12 +53,3 @@ http://localhost:4321
 - Todas as edições feitas pelo TinaCMS são refletidas diretamente no site.
 - O projeto foi desenvolvido com foco em performance, organização e legibilidade do código.
 
-## 📸 Demonstração
-
-_(Adicione aqui prints ou um vídeo curto da navegação entre as páginas geradas, se possível)_
-
-## 📩 Contato
-
-- Desenvolvido por **Fernando Caetano**
-- GitHub: [fernando-c-lima](https://github.com/fernando-c-lima)
-- Email: **fernandocaetano001@gmail.com**
